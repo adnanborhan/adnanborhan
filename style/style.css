@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.banner-container{
+    background-color: gray;
+}
+.banner-column{
+    background-color: rgb(76, 85, 85);
+}
+.navbarr{
+    align-items: right;
+}
